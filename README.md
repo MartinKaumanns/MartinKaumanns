@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartinKaumanns
-- 👀 I’m interested in Graphics Design, Interaction Design and Typography 
-- 🌱 I’m currently learning HTML, CSS and Java Script
-- 💞️ I’m looking to collaborate not yet:) I still have a part of the way ahead
+- 👀 I’m interested in Graphics Design, Interaction Design and Typography, Frontend Development 
+- 🌱 I’ve just finished a 6 month Full Stack Developer Bootcamp.
+- 💞️ I’m open to work!
 - 📫 How to reach me: Shoot me an email: hello@martinkaumanns.com
 
 <!---
