@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in Graphics Design, Interaction Design and Typography, Frontend Development 
-- 🌱 I’ve just finished a 6 month Full Stack Developer Bootcamp.
+- 🌱 I’ve just finished a 6 month Full Stack Developer Bootcamp and started working on projects to improve my JS and react skills.
 - 💞️ I’m open to work!
 - 📫 How to reach me: Shoot me an email: hello@martinkaumanns.com
 
